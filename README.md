@@ -1,5 +1,7 @@
 # Bullethell (Playdate C)
 
+<img width="1206" height="1023" alt="image" src="https://github.com/user-attachments/assets/50e5fa58-69f2-468a-853c-57a23d91b4f1" />
+
 Crank-aimed 2D bullethell prototype for the Playdate console, written with the Playdate C API.
 
 ## Project Summary
