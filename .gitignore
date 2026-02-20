@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# CMake / build outputs
+build/
+build-device/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+compile_commands.json
+Makefile
+.cache/
+
+# Playdate generated bundles/binaries
+*.pdx/
+Source/pdex.bin
+Source/pdex.elf
+Source/pdex.dylib
+Source/pdex.so
+Source/pdex.dll
+
+# IDE
+.vscode/
+.idea/
+.cursor/

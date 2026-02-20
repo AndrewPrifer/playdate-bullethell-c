@@ -1,0 +1,6 @@
+name=Bullethell
+author=Andrew Prifer
+description=Crank-aimed bullethell prototype in C.
+bundleID=com.andrewprifer.bullethellc
+version=0.1.0
+buildNumber=1
